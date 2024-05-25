@@ -3,7 +3,7 @@
 https://isology.github.io/CENG311_Term_Project/
 
 ALİ ŞEN 20050111066
-https://alisen1907.github.io/sprint3/
+https://alisen1907.github.io/sprint4/
 
 ---All plugins in index.html (home page)----
 
